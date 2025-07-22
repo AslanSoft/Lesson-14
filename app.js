@@ -14,7 +14,7 @@
 // json.stringify bu oddiy obyektni string tipiga o'tqizadi 
 // json,parse bu stringify dagi malumotlarni yechib beradi
 
-// BODYDAN MALUMOT OLISH 
+// Back enddan MALUMOT OLISH 
 // fetch ("https://fakestoreapi.com/products",{
 // method:"GET",
 // headers:{
