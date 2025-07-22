@@ -13,3 +13,15 @@
 // json {"salom": "1"} json bu keyni xam valueni xam string o'tqizadi
 // json.stringify bu oddiy obyektni string tipiga o'tqizadi 
 // json,parse bu stringify dagi malumotlarni yechib beradi
+
+// BODYDAN MALUMOT OLISH 
+// fetch ("https://fakestoreapi.com/products",{
+// method:"GET",
+// headers:{
+// "content-type":"application/json"
+// },
+// })
+// .then( (response)=> response.json())
+//  then ((data)=> {
+    // console.log(data,"back enddan malumot keldi");
+    //})
